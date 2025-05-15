@@ -2,6 +2,11 @@
 
 Featured paper: [**Rheological Properties and Age-Related Changes of the Human Vitreous Humor**](https://doi.org/10.3389/fbioe.2018.00199)
 
+<!-- YouTube embed -->
+<div align="center">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4gTBoQHzFrGkB1GUYGQ1Aj?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
 Imagine the inside of your eye, behind the lens and in front of the retina, is filled with a clear jelly. That jelly is called the vitreous humor. It's mostly water (about 99%) held together by a framework of collagen and hyaluronic acid, creating a fragile, transparent hydrogel.
 
 <!-- YouTube embed -->
