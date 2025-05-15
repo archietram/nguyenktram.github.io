@@ -2,6 +2,11 @@
 
 Imagine the inside of your eye, behind the lens and in front of the retina, is filled with a clear jelly. That jelly is called the vitreous humor. It's mostly water (about 99%) held together by a framework of collagen and hyaluronic acid, creating a fragile, transparent hydrogel.
 
+<!-- YouTube embed -->
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1ImVfBJsYAY?si=-_dWRlP1fk9tGnPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 This ocular jelly isn't just taking up space. It plays a crucial role as a **mechanical damper**, kind of like a tiny shock absorber for your eye. It helps absorb impacts and protects the delicate lens and retina from damage.
 
 But here's the thing: as we age, this clear jelly starts to change. It liquefies. You might have heard of this as vitreous liquefaction, or maybe experienced it if you've started seeing "floaters" – those little spots or squiggles that drift across your vision. These floaters are essentially clumps of the vitreous framework that have collapsed as the jelly turns to liquid.
