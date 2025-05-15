@@ -1,5 +1,7 @@
 ## The Jell-O of Your Eye: How Your Vitreous Ages (It's Not What You Think!)
 
+Featured paper: [**Rheological Properties and Age-Related Changes of the Human Vitreous Humor**](https://doi.org/10.3389/fbioe.2018.00199)
+
 Imagine the inside of your eye, behind the lens and in front of the retina, is filled with a clear jelly. That jelly is called the vitreous humor. It's mostly water (about 99%) held together by a framework of collagen and hyaluronic acid, creating a fragile, transparent hydrogel.
 
 <!-- YouTube embed -->

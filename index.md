@@ -1,8 +1,9 @@
-Biomedical Engineer · Data Scientist · Medical Researcher  
 **Nguyen "Archie" Tram, Ph.D.**
+Biomedical Engineer · Data Scientist · Medical Researcher  
 
 Breaking down complex research—one blog at a time.
 
+**Through this blog, I strive to make science accessible, insightful, and inspiring for everyone.**
 ---
 
 **Expertise**
@@ -18,4 +19,3 @@ Proven leader with 15+ peer-reviewed publications, 30+ conference presentations,
 
 ---
 
-**Through this blog, I strive to make science accessible, insightful, and inspiring for everyone.**
