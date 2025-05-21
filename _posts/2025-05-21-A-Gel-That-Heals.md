@@ -13,12 +13,12 @@ Imagine your eye is like a camera. At the very back, you have the retina, which 
 
 As people get older, the vitreous can start to change. It can undergo "phase separation," where the collagen and hyaluronic acid network breaks down, creating watery pockets. This breakdown can weaken the vitreous's protective abilities and increase the risk of serious vision problems like retinal detachments or tears. Scientists have also noticed a link between this vitreous breakdown and the formation of cataracts, a clouding of the eye's lens.
 
-If the vitreous becomes too damaged or causes problems, surgeons perform a procedure called a vitrectomy. This involves completely removing the damaged vitreous and replacing it with something else.
-
 <!-- YouTube embed -->
 <div align="center">
   <iframe width="100%" height="315" src="https://www.youtube.com/embed/NpsupP57ZKw?si=XF2Ga53lTPNzvZBy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+If the vitreous becomes too damaged or causes problems, surgeons perform a procedure called a vitrectomy. This involves completely removing the damaged vitreous and replacing it with something else.
 
 **The Problem with Today's Solutions**
 
