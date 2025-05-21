@@ -1,3 +1,8 @@
+---
+title: "A Gel That Heals? The Search for a Better Eye Substitute"
+description: "Explore how new hydrogel vitreous substitutes that release antioxidants could revolutionize eye surgery and protect vision after vitrectomy.
+---
+
 ## A Gel That Heals? The Search for a Better Eye Substitute
 
 Featured paper: [**A Hydrogel Vitreous Substitute that Releases Antioxidant**](https://doi.org/10.1002/mabi.201900305)
@@ -33,7 +38,7 @@ But the natural vitreous doesn't just provide physical support. It also plays a 
 
 When the natural vitreous is removed, this vitamin C reservoir is lost, and the oxygen gradient is disrupted. This leads to higher oxygen levels near the lens, increasing the risk of oxidative damage and cataract formation. In fact, a large percentage of patients (up to 95%) need cataract surgery within two years of a vitrectomy.
 
-Crucially, none of the current clinical treatments or most experimental hydrogel substitutes have addressed this problem of oxidative stress after vitrectomy.
+Crucially, none of the current clinical treatments or experimental hydrogel substitutes have addressed this problem of oxidative stress after vitrectomy.
 
 **A New Generation of Vitreous Substitutes**
 
