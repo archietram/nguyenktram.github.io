@@ -1,6 +1,7 @@
 ---
 title: "The Jell-O of Your Eye: How Your Vitreous Ages"
 description: "Discover how the vitreous humor changes with age and what it means for your vision."
+tags: [eye, vitreous, aging, rheology, biomechanics]
 ---
 
 ## The Jell-O of Your Eye: How Your Vitreous Ages (It's Not What You Think!)

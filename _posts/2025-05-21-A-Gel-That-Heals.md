@@ -1,6 +1,7 @@
 ---
 title: "A Gel That Heals? The Search for a Better Eye Substitute"
 description: "Explore how new hydrogel vitreous substitutes that release antioxidants could revolutionize eye surgery and protect vision after vitrectomy."
+tags: [eye, vitreous, hydrogel, antioxidant, biomaterials]
 ---
 
 ## A Gel That Heals? The Search for a Better Eye Substitute
