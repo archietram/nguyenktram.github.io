@@ -1,7 +1,7 @@
 ---
 title: "The See-Through Gel in Your Eye: Why It Matters More Than You Think!"
 description: "Discover why the vitreous gel in your eye matters, how it changes with age, and the latest advances in hydrogel substitutes designed to better mimic its structure, mechanics, and antioxidant functions."
-tags: [eye, vitreous, hydrogel, biomaterials, aging, antioxidants, biotransport]
+tags: [Dr. Tram's Dissertation Work on the Vitreous]
 ---
 
 ## The See-Through Gel in Your Eye: Why It Matters More Than You Think!
