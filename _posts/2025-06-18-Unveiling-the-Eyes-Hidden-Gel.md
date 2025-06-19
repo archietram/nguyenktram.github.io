@@ -1,10 +1,10 @@
 ---
-title: "Unveiling the Eye's Hidden Gel: Why the Vitreous Humor Matters More Than You Think!"
+title: "Unveiling the Eye's Hidden Gel: The Vital Role of the Vitreous Humor"
 description: "Explore the hidden world of the vitreous humor - how its unique structure supports your vision, what happens as it ages, and why understanding its biomechanics is key for treating eye diseases and improving drug delivery."
 tags: [Dr. Tram's Dissertation Work on the Vitreous]
 ---
 
-## Unveiling the Eye's Hidden Gel: Why the Vitreous Humor Matters More Than You Think!
+## Unveiling the Eye's Hidden Gel: The Vital Role of the Vitreous Humor
 
 Featured paper: [**The Roles of Vitreous Biomechanics in Ocular Disease, Biomolecule Transport, and Pharmacokinetics**](https://doi.org/10.1080/02713683.2022.2033271)
 

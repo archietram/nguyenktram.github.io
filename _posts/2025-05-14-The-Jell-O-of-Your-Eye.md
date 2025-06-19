@@ -4,7 +4,7 @@ description: "Discover how the vitreous humor changes with age and what it means
 tags: [Dr. Tram's Dissertation Work on the Vitreous]
 ---
 
-## The Jell-O of Your Eye: How Your Vitreous Ages (It's Not What You Think!)
+## The Jell-O of Your Eye: How Your Vitreous Ages
 
 Featured paper: [**Rheological Properties and Age-Related Changes of the Human Vitreous Humor**](https://doi.org/10.3389/fbioe.2018.00199)
 
