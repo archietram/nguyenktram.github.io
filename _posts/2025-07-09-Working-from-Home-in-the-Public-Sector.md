@@ -1,6 +1,6 @@
 ---
 title: "Working from Home in the Public Sector: A Game Changer for Productivity?"
-description: "Explore new research on working from home in the public sector. Learn how remote work boosts productivity, reduces absenteeism, and why good management is key to maximizing these benefits—especially for jobs focused on individual
+description: "Explore new research on working from home in the public sector. Learn how remote work boosts productivity, reduces absenteeism, and why good management is key to maximizing these benefits—especially for jobs focused on individual tasks."
 tags: [Other Interesting Works]
 ---
 ## Working from Home in the Public Sector: A Game Changer for Productivity?
