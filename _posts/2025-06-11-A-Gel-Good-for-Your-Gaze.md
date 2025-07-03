@@ -1,7 +1,7 @@
 ---
 title: "A Gel Good for Your Gaze? Exploring a New Way to Replace the Eye's Inner Jello"
 description: "Learn how a new antioxidant-loaded hydrogel could safely replace the eye’s natural gel after surgery, protect against cataracts, and improve outcomes for patients undergoing vitrectomy."
-tags: [Dr. Tram's Dissertation Work on the Vitreous]
+tags: [Dr. Tram's Dissertation Works on the Vitreous]
 ---
 
 **A Gel Good for Your Gaze? Exploring a New Way to Replace the Eye's Inner Jello**

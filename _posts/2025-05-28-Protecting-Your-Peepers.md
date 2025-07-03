@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Peepers: How Antioxidants Could Lead to Better Eye Surgery Recovery"
 description: "Discover how combining vitamin C and glutathione in new vitreous substitutes could protect your eyes after surgery and reduce the risk of cataracts."
-tags: [Dr. Tram's Dissertation Work on the Vitreous]
+tags: [Dr. Tram's Dissertation Works on the Vitreous]
 ---
 
 **Protecting Your Peepers: How Antioxidants Could Lead to Better Eye Surgery Recovery**

@@ -1,7 +1,7 @@
 ---
 title: "The Jell-O of Your Eye: How Your Vitreous Ages"
 description: "Discover how the vitreous humor changes with age and what it means for your vision."
-tags: [Dr. Tram's Dissertation Work on the Vitreous]
+tags: [Dr. Tram's Dissertation Works on the Vitreous]
 ---
 
 ## The Jell-O of Your Eye: How Your Vitreous Ages

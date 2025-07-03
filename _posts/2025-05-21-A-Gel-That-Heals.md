@@ -1,7 +1,7 @@
 ---
 title: "A Gel That Heals? The Search for a Better Eye Substitute"
 description: "Explore how new hydrogel vitreous substitutes that release antioxidants could revolutionize eye surgery and protect vision after vitrectomy."
-tags: [Dr. Tram's Dissertation Work on the Vitreous]
+tags: [Dr. Tram's Dissertation Works on the Vitreous]
 ---
 
 ## A Gel That Heals? The Search for a Better Eye Substitute
