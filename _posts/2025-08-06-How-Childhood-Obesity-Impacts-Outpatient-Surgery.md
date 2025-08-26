@@ -1,7 +1,7 @@
 ---
 title: "How Childhood Obesity Impacts Outpatient Surgery"
 description: "Explore how childhood obesity is creating unexpected challenges in outpatient surgery. New research reveals that severely obese children are 20% more likely to need hospital admission after same-day procedures, with Class 3 obesity rates rising 32.5% from 2012-2019. Discover what this means for surgical planning and patient safety."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
 ---
 ## How Childhood Obesity Impacts Outpatient Surgery
 

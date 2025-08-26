@@ -1,7 +1,7 @@
 ---
 title: "Navigating COVID-19 and Kids' Surgery"
 description: "Discover how COVID-19 affects children's surgery outcomes in this comprehensive study analysis. Learn why symptomatic kids face higher surgical risks, how timing of diagnosis matters, and what this means for families making difficult decisions about postponing procedures during the pandemic."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
 ---
 ## Navigating COVID-19 and Kids' Surgery
 
