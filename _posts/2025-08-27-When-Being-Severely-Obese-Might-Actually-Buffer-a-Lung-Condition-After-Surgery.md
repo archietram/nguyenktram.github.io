@@ -1,6 +1,6 @@
 ---
 title: "When Being Severely Obese Might Actually Buffer a Lung Condition After Surgery"
-description: "Discover how cutting-edge hybrid SPECT/CT imaging is revolutionizing treatment for Critical Limb Ischemia. Learn how this 'super scanner' combines blood flow visualization with calcium detection to guide precise amputation planning and save limbs. Explore a real patient case showing how dual assessment technology is transforming vascular care."
+description: "Explore the surprising 'obesity paradox' in surgical patients. New research reveals that severely obese patients with COPD are 14% less likely to develop pneumonia after surgery compared to normal-weight COPD patients. Discover how opposing lung mechanics might create unexpected protection and what this means for surgical risk assessment."
 tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
 ---
 ## When Being Severely Obese Might Actually *Buffer* a Lung Condition After Surgery
