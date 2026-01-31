@@ -13,8 +13,6 @@ Featured paper: [**Optimization by decoded quantum interferometry**](https://doi
     <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/63aRiXhT7TQnlUnWuVb49e?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
-****
-
 Imagine you are standing in front of a giant mountain of billions of puzzle pieces. Your job is to find the one specific combination that fits perfectly together to create a picture. To a regular computer, this is a nightmare. It has to try one piece, then another, then another, in a process that could take millions of years. This is the world of "hard optimization," and it’s one of the biggest challenges in math and science today.
 
 However, a team of researchers from Google Quantum AI and several top universities just published a paper in the journal *Nature* that might have found a better way. They’ve introduced a new quantum algorithm called **Decoded Quantum Interferometry (DQI)**. This isn't just a small step; for certain types of problems, it offers a "superpolynomial speed-up," which is a fancy way of saying it’s exponentially faster than the best classical methods we know.
