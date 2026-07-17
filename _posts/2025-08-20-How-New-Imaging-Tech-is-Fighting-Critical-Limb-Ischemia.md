@@ -1,7 +1,7 @@
 ---
 title: "How New Imaging Tech is Fighting Critical Limb Ischemia"
 description: "Discover how cutting-edge hybrid SPECT/CT imaging is revolutionizing treatment for Critical Limb Ischemia. Learn how this 'super scanner' combines blood flow visualization with calcium detection to guide precise amputation planning and save limbs. Explore a real patient case showing how dual assessment technology is transforming vascular care."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Post-doctoral Work]
 ---
 ## How New Imaging Tech is Fighting Critical Limb Ischemia
 

@@ -1,7 +1,7 @@
 ---
 title: "The Secret Lives of Teens: Why Doctors Need to Ask You (Not Your Parents) About Substance Use Before Surgery"
 description: "Learn how teen self-reporting uncovers hidden substance use before surgery and why private, adolescent-centered screening is essential for safe anesthesia and better perioperative care."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## The Secret Lives of Teens: Why Doctors Need to Ask You (Not Your Parents) About Substance Use Before Surgery
 

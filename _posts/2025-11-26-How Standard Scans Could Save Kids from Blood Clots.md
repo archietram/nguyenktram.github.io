@@ -1,7 +1,7 @@
 ---
 title: "How Standard Scans Could Save Kids from Blood Clots"
 description: "Discover how routine PET/CT scans could predict life-threatening blood clots in children with lymphoma. Learn how detecting vein inflammation after chemotherapy identifies high-risk patients before clots form—doubling or tripling risk with each step of inflammation—and enabling personalized preventative treatment that could save lives."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Post-doctoral Work]
 ---
 ## How Standard Scans Could Save Kids from Blood Clots
 

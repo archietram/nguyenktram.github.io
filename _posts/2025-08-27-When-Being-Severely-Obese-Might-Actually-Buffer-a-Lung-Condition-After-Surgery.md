@@ -1,7 +1,7 @@
 ---
 title: "When Being Severely Obese Might Actually Buffer a Lung Condition After Surgery"
 description: "Explore the surprising 'obesity paradox' in surgical patients. New research reveals that severely obese patients with COPD are 14% less likely to develop pneumonia after surgery compared to normal-weight COPD patients. Discover how opposing lung mechanics might create unexpected protection and what this means for surgical risk assessment."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## When Being Severely Obese Might Actually *Buffer* a Lung Condition After Surgery
 

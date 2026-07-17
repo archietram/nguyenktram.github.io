@@ -1,7 +1,7 @@
 ---
 title: "The \"Traffic Jam\" in Your Legs: A New Way to See Muscle Health"
 description: "Discover a groundbreaking PET imaging technique using 18F-FDG to assess both perfusion and metabolism in skeletal muscles affected by peripheral artery disease, revealing compensatory angiogenesis in a porcine model."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Post-doctoral Work]
 ---
 ## The "Traffic Jam" in Your Legs: A New Way to See Muscle Health
 

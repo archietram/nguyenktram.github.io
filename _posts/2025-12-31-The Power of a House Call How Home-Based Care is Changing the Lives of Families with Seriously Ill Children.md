@@ -1,7 +1,7 @@
 ---
 title: "The Power of a House Call: How Home-Based Care is Changing the Lives of Families with Seriously Ill Children"
 description: "Discover how home-based pediatric hospice and palliative care visits transform healthcare for seriously ill children. Learn how bringing expert providers into the home drops ICU days from 12 to zero, reduces hospital admissions from 72% to 54%, and builds trust that helps families manage crises with confidence, proving that sometimes the best medicine is a house call."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## The Power of a House Call: How Home-Based Care is Changing the Lives of Families with Seriously Ill Children
 

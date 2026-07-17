@@ -1,7 +1,7 @@
 ---
 title: "The Bionic Renaissance: How AI is Building the Future of Human Limbs"
 description: "Discover how AI and machine learning are transforming prosthetic limbs into intelligent bionic extensions with pattern recognition, computer vision, and haptic feedback—revolutionizing mobility and independence for amputees worldwide."
-tags: [Other Interesting Works]
+tags: [AI in Prosthetics]
 ---
 ## The Bionic Renaissance: How AI is Building the Future of Human Limbs
 

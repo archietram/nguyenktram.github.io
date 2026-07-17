@@ -1,7 +1,7 @@
 ---
 title: "From the Bayou to the Bio-Lab: How Scientists are Learning to \"Put Crayfish to Sleep\""
 description: "Discover how scientists developed a humane anesthesia protocol for crayfish using propofol injections. Learn why MS222 failed, how 50 mg/kg propofol achieves surgical anesthesia in 54 seconds, and why putting crayfish 'to sleep' safely enables groundbreaking CT imaging and neuroregenerative research that could unlock healing secrets for human brains."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Post-doctoral Work]
 ---
 ## From the Bayou to the Bio-Lab: How Scientists are Learning to "Put Crayfish to Sleep"
 

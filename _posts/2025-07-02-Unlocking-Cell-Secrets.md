@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Cell Secrets: How a New Smart Gel Helps Us Understand Our Bodies"
 description: "Discover how a new 'smart gel' lets scientists control both stiffness and adhesiveness in 3D, helping us unlock how cells sense their environment, make decisions, and become different cell types. Learn how this breakthrough could advance stem cell research, regenerative medicine, and our understanding of disease."
-tags: [Dr. Tram's Other Works During Grad School]
+tags: [Dr. Tram's PhD Dissertation Work]
 ---
 ## Unlocking Cell Secrets: How a New "Smart Gel" Helps Us Understand Our Bodies
 

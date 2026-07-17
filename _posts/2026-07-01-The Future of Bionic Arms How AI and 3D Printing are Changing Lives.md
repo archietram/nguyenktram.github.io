@@ -1,7 +1,7 @@
 ---
 title: "The Future of Bionic Arms: How AI and 3D Printing are Changing Lives"
 description: "Learn how AI, 3D printing, and personalized myoelectric design are making advanced prosthetic arms more affordable, adaptable, and life-changing for amputees around the world."
-tags: [Other Interesting Works]
+tags: [AI in Prosthetics]
 ---
 ## The Future of Bionic Arms: How AI and 3D Printing are Changing Lives
 

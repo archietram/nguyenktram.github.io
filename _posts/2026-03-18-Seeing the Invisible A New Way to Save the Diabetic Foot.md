@@ -1,7 +1,7 @@
 ---
 title: "Seeing the Invisible: A New Way to Save the Diabetic Foot"
 description: "Discover how 18F-NaF PET/CT imaging reveals active bone remodeling in Charcot neuropathy, detecting disease persistence that X-rays miss—even years after surgery—and paving the way for better monitoring and limb-saving treatments in diabetic patients."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Post-doctoral Work]
 ---
 ## Seeing the Invisible: A New Way to Save the Diabetic Foot
 

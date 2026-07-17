@@ -1,7 +1,7 @@
 ---
 title: "How Scientists are Engineering the Future of Human Windpipes"
 description: "Discover how tissue engineering and biobanking are revolutionizing tracheal replacement. Learn how preserving chondrocytes at -80°C keeps lab-grown windpipes alive, why these cartilage cells act as a 24/7 maintenance crew, and how CT scans can now monitor graft health in real-time without surgery, bringing us closer to life-saving replacement airways."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Post-doctoral Work]
 ---
 ## How Scientists are Engineering the Future of Human Windpipes
 

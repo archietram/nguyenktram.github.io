@@ -1,7 +1,7 @@
 ---
 title: "The Simple Pharmacy Hack That Could Transform Pediatric Care"
 description: "Discover how vial-splitting can save hospitals over $1.3 million while reducing medication waste. Learn why repackaging Sugammadex into smaller, child-sized doses is revolutionizing pediatric anesthesia care—proving that thinking small can lead to big savings and better resource stewardship."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## The Simple Pharmacy Hack That Could Transform Pediatric Care
 

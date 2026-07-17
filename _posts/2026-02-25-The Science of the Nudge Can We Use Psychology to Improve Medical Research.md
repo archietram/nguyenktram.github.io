@@ -1,7 +1,7 @@
 ---
 title: "The Science of the \"Nudge\": Can We Use Psychology to Improve Medical Research?"
 description: "Explore a behavioral economics trial testing whether psychological 'nudges' can boost clinical research enrollment. Learn why video explanations—one focused on altruism and social norms, the other on biology—yielded similar high interest, how timing before surgery matters more than messaging, and what this reveals about recruiting families for novel VR pain studies."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## The Science of the "Nudge": Can We Use Psychology to Improve Medical Research?
 

@@ -1,7 +1,7 @@
 ---
 title: "A New Way to Tackle Pain After Surgery to Help Little Heroes Heal"
 description: "Discover how ultrasound-guided Quadratus Lumborum blocks provide fast, safe, and effective pain relief for infants and children after colorectal surgery. Learn how this regional technique achieves near-zero pain scores, reduces opioid needs, and offers a spine-sparing alternative when neuraxial anesthesia isn’t an option, helping little heroes heal more comfortably."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## A New Way to Tackle Pain After Surgery to Help Little Heroes Heal
 

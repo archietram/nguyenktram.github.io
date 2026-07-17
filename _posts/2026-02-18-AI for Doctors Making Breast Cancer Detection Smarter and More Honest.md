@@ -1,7 +1,7 @@
 ---
 title: "AI for Doctors? Making Breast Cancer Detection Smarter and More \"Honest\""
 description: "Discover how teaching AI to admit its uncertainty transforms breast tumor segmentation from 'black box' to trustworthy clinical tool. Learn how cleaning contaminated datasets, using Monte Carlo Dropout and Deep Ensembles, and creating Uncertainty Maps helps AI signal when it's confused, enabling safer human-AI partnerships that improve diagnostic accuracy."
-tags: [Other Interesting Works]
+tags: [AI in Cancer Detection]
 ---
 ## AI for Doctors? Making Breast Cancer Detection Smarter and More "Honest"
 

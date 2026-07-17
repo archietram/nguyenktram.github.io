@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning for Body Composition in Pediatric Lymphoma"
 description: "Discover how AI and deep learning are revolutionizing pediatric cancer care by analyzing body composition from routine CT scans. Learn how this breakthrough technology can predict which young lymphoma patients face higher risks of serious complications—and how it's paving the way for truly personalized treatment plans."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Post-doctoral Work]
 ---
 ## Deep Learning for Body Composition in Pediatric Lymphoma
 

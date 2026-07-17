@@ -1,7 +1,7 @@
 ---
 title: "Peeking Inside Breathing Tubes in Kids"
 description: "Discover groundbreaking research that challenges long-held assumptions about breathing tubes in children. Learn how CT imaging reveals that cuffed endotracheal tubes don't inflate evenly as previously thought, and what this means for preventing airway injuries in pediatric patients during critical procedures."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## Peeking Inside Breathing Tubes in Kids
 

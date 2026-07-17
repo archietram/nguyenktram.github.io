@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Eye's Hidden Architects: How Tiny Tissues Shape Our Vision!"
 description: "Discover how the eye’s hidden tissues, like the ciliary body and zonules, shape your vision. Learn how their biomechanics influence corneal development, what happens when they change with age or disease, and why this matters for treating vision problems and advancing eye therapies."
-tags: [Dr. Tram's Other Works During Grad School]
+tags: [Dr. Tram's PhD Dissertation Work]
 ---
 ## Uncovering the Eye's Hidden Architects: How Tiny Tissues Shape Our Vision!
 

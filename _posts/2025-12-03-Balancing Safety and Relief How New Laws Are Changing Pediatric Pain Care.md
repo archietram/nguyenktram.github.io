@@ -1,7 +1,7 @@
 ---
 title: "Balancing Safety and Relief: How New Laws Are Changing Pediatric Pain Care"
 description: "Discover how Ohio's 2017 opioid cap law reduced pediatric prescriptions while maintaining patient satisfaction. Learn why burn and orthopedic patients received fewer pills after the law, why 68% still had leftover medication, and how precision prescribing could better balance pain relief with opioid crisis prevention."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## Balancing Safety and Relief: How New Laws Are Changing Pediatric Pain Care
 

@@ -1,7 +1,7 @@
 ---
 title: "Unmasking the Hidden Shifts: Why Your BMI Doesn't Tell the Whole Story in Pediatric Cancer Treatment"
 description: "Discover why BMI alone can be misleading in pediatric cancer care. Explore new research revealing how chemotherapy causes hidden shifts in muscle and fat that BMI can’t detect—and how routine CT scans can provide a clearer, more accurate picture of young patients’ health during treatment."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Post-doctoral Work]
 ---
 ## Unmasking the Hidden Shifts: Why Your BMI Doesn't Tell the Whole Story in Pediatric Cancer Treatment
 

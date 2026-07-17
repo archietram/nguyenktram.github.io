@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Future of Breast Cancer Detection: When AI Starts Explaining Itself"
 description: "Discover how the MT-BI-RADS model revolutionizes breast cancer detection with three-layer explainable AI. Learn how this breakthrough uses BI-RADS descriptors, tumor segmentation, and Shapley Values to achieve 91.3% accuracy and 94% sensitivity, while explaining its reasoning in the doctor's own language."
-tags: [Other Interesting Works]
+tags: [AI in Cancer Detection]
 ---
 ## Understanding the Future of Breast Cancer Detection: When AI Starts Explaining Itself
 

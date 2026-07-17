@@ -1,7 +1,7 @@
 ---
 title: "Shhh! How a Quieter Operating Room Helps Kids Recover Better"
 description: "Discover how reducing operating room noise improves children's recovery at home. Learn why a low-stimulus environment with dimmed lights and soft music leads to fewer temper tantrums, better eating habits, and more engaged behavior up to a week after surgery—proving that a calmer OR creates a calmer recovery."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## Shhh! How a Quieter Operating Room Helps Kids Recover Better
 

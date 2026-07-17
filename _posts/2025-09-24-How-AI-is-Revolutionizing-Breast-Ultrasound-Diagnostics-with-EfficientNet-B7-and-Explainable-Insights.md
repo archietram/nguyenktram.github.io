@@ -1,7 +1,7 @@
 ---
 title: "How AI is Revolutionizing Breast Ultrasound Diagnostics with EfficientNet-B7 and Explainable Insights"
 description: "Discover how EfficientNet-B7 AI achieves 99.14% accuracy in breast ultrasound diagnostics. Learn how this breakthrough combines advanced deep learning with explainable AI using Grad-CAM to create transparent, clinically-trusted breast cancer detection that outperforms traditional models."
-tags: [Other Interesting Works]
+tags: [AI in Cancer Detection]
 ---
 ## How AI is Revolutionizing Breast Ultrasound Diagnostics with EfficientNet-B7 and Explainable Insights
 

@@ -1,7 +1,7 @@
 ---
 title: "A New Way to Help Kids Recover: The Power of QL Catheters for Pain"
 description: "Discover how continuous Quadratus Lumborum catheters provide safe, opioid-sparing pain relief for children after abdominal surgery. Learn why this ultrasound-guided technique offers a spine-sparing alternative when neuraxial blocks aren't possible, achieving low pain scores and faster recovery milestones in medically complex patients."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## A New Way to Help Kids Recover: The Power of QL Catheters for Pain
 

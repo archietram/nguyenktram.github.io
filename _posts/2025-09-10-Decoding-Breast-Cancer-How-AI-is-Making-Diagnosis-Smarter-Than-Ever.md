@@ -1,7 +1,7 @@
 ---
 title: "Decoding Breast Cancer: How AI is Making Diagnosis Smarter Than Ever!"
 description: "Discover how AI and deep learning are revolutionizing breast cancer diagnosis by combining ultrasound imaging with patient data. Learn how this multimodal approach achieves 99% accuracy, reduces diagnostic errors, and paves the way for faster, more personalized breast cancer detection and treatment."
-tags: [Other Interesting Works]
+tags: [AI in Cancer Detection]
 ---
 ## Decoding Breast Cancer: How AI is Making Diagnosis Smarter Than Ever!
 

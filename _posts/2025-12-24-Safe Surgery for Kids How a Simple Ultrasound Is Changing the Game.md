@@ -1,7 +1,7 @@
 ---
 title: "Safe Surgery for Kids: How a Simple Ultrasound Is Changing the Game"
 description: "Discover how bedside gastric ultrasound (POCUS) helps anesthesiologists assess aspiration risk in children before urgent surgery—enabling safer, more controlled inductions when NPO rules alone aren't enough."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## Safe Surgery for Kids: How a Simple Ultrasound Is Changing the Game
 

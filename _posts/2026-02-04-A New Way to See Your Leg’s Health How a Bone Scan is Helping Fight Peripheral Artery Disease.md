@@ -1,7 +1,7 @@
 ---
 title: "A New Way to See Your Leg’s Health: How a Bone Scan is Helping Fight Peripheral Artery Disease"
 description: "Discover how 18F-sodium fluoride PET imaging maps muscle perfusion in peripheral artery disease. Learn how this ‘bone scan’ tracer reveals leg blood flow, outperforms ABI in symptom matching, and tracks recovery after revascularization—bringing a clearer, more accessible way to assess PAD severity."
-tags: [Dr. Tram's Post-doctoral Works]
+tags: [Dr. Tram's Post-doctoral Work]
 ---
 ## A New Way to "See" Your Leg’s Health: How a Bone Scan is Helping Fight Peripheral Artery Disease
 

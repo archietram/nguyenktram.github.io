@@ -1,7 +1,7 @@
 ---
 title: "How a New Blood Roadmap is Changing Baby Heart Surgery"
 description: "Discover how a ROTEM-guided 'blood roadmap' personalizes transfusion during neonatal and infant heart surgery. Learn how real-time clot metrics reduce platelet and cryoprecipitate use, raise ICU hematocrit, and cut chest tube bleeding—bringing safer, targeted care to the tiniest hearts."
-tags: [Dr. Tram's Research Works in Anesthesiology and Pain Medicine]
+tags: [Dr. Tram's Research Work in Anesthesiology and Pain Medicine]
 ---
 ## How a New "Blood Roadmap" is Changing Baby Heart Surgery
 

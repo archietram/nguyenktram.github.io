@@ -1,7 +1,7 @@
 ---
 title: "A Deep Dive into Smarter Breast Tumor Detection"
 description: "Discover how advanced AI models U-net and U-net++ are revolutionizing breast tumor detection in ultrasound images. Learn how these neural networks achieve 88.60% accuracy in tumor segmentation, why U-net++ outperforms standard U-net, and what this means for faster, more precise breast cancer diagnosis."
-tags: [Other Interesting Works]
+tags: [AI in Cancer Detection]
 ---
 ## A Deep Dive into Smarter Breast Tumor Detection
 
