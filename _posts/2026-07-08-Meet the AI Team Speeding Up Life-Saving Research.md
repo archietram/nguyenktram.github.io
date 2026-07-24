@@ -1,7 +1,7 @@
 ---
 title: "Meet the AI Team Speeding Up Life-Saving Research"
 description: "Discover how a multi-agent AI system is speeding up clinical trial design using real-world healthcare data, predictive modeling, and team-based intelligence to make life-saving medicine faster and smarter."
-tags: [Other Interesting Works]
+tags: [Learning about AI]
 ---
 ## Meet the AI Team Speeding Up Life-Saving Research
 

@@ -1,7 +1,7 @@
 ---
 title: "The AI Takeover in Science Writing: More Widespread Than We Thought?"
 description: "Discover how AI writing tools like ChatGPT are quietly transforming scientific literature. New research reveals that at least 13.5% of biomedical papers in 2024 show AI influence, a shift bigger than COVID's impact on publishing. Explore the data-driven detective work uncovering this unprecedented change in science writing."
-tags: [Other Interesting Works]
+tags: [Learning about AI]
 ---
 ## The AI Takeover in Science Writing: More Widespread Than We Thought?
 

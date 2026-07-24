@@ -1,7 +1,7 @@
 ---
 title: "Why AI is a Know-it-All and How a Little Noise Can Fix It"
 description: "Discover how brain-inspired 'warm-up' training with random noise fixes AI overconfidence, calibrating uncertainty for safer, more reliable models that know when they're unsure—mimicking prenatal brain development to prevent hallucinations and miscalibrations."
-tags: [Other Interesting Works]
+tags: [Learning about AI]
 ---
 ## Why AI is a "Know-it-All" and How a Little Noise Can Fix It
 

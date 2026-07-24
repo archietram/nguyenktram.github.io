@@ -1,7 +1,7 @@
 ---
 title: "The Library That Thinks: How AI is Solving the Information Overload in Science"
 description: "Discover how the OpenScholar model revolutionizes scientific research with a fully open, retrieval-augmented AI system. Learn how this breakthrough utilizes a 45-million paper DataStore (OSDS), iterative self-feedback loops, and specialized rerankers to outperform GPT-4o by 6.1% in correctness, providing expert-level citation accuracy that matches or surpasses human-written literature reviews."
-tags: [Other Interesting Works]
+tags: [Learning about AI]
 ---
 ## The Library That Thinks: How AI is Solving the "Information Overload" in Science
 

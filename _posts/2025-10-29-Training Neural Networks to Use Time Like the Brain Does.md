@@ -1,7 +1,7 @@
 ---
 title: "Training Neural Networks to Use Time Like the Brain Does"
 description: "Discover how deep learning and stretchable sensors are revolutionizing wearable technology by filtering out real-world noise. Learn how a CNN-powered system achieves 94% accuracy in chaotic conditions, enabling precise robotic control while running, reducing training to just two gestures per person, and even working underwater with sea-wave interference."
-tags: [Other Interesting Works]
+tags: [Learning about AI]
 ---
 # Training Neural Networks to Use Time Like the Brain Does
 

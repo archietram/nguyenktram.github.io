@@ -1,7 +1,7 @@
 ---
 title: "The AI Telephone Game: Why Artificial Intelligence Eventually Gets Bored and Predictable"
 description: "Discover what happens when AI talks to itself without human guidance. Learn how image-generation and description models converge to just 12 generic visual motifs such as stormy lighthouses, gothic cathedrals, and pastoral scenes, revealing AI's built-in drift toward 'visual elevator music' and why human collaboration is essential to keep creativity alive."
-tags: [Other Interesting Works]
+tags: [Learning about AI]
 ---
 ## The AI Telephone Game: Why Artificial Intelligence Eventually Gets Bored and Predictable
 
